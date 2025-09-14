@@ -17,3 +17,4 @@ OrderID CustomerName Product
 # 2NF table
 
 I created tale orders
+I inserted intto table orders
