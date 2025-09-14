@@ -18,3 +18,4 @@ OrderID CustomerName Product
 
 I created tale orders
 I inserted intto table orders
+I created table orderitems
