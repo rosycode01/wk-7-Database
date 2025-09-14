@@ -13,3 +13,7 @@ OrderID CustomerName Product
 102 Jane Smith Keyboard
 102 Jane Smith Mouse
 103 Emily Clark Phone
+
+# 2NF table
+
+I created tale orders
